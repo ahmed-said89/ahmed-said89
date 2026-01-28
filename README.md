@@ -30,9 +30,15 @@ A **Data Engineer** with a strong background in **Database Administration (1 yea
 ---
 
 ### 📫 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-said-bi)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedsaid98@gmail.com)
+### 📫 Let's Connect:
 
+<a href="https://www.linkedin.com/in/ahmed-said-bi" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:ahmedsaid98@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 ---
 
 ### 📈 GitHub Stats
