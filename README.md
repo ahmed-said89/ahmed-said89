@@ -1,29 +1,30 @@
 # Hi I'm Ahmed Said 👋
-### Data Engineer ⚙️ | ETL & Data Infrastructure Specialist
+### Data Engineer | Former SQL Server DBA | BI Specialist
 
-Data Engineer with hands-on experience building reliable ETL pipelines and data warehouses using **SQL, SSIS, Talend, Apache Airflow, and PySpark**. Focused on data quality, dimensional modeling, and delivering analytics-ready datasets for enterprise and BI use cases, particularly in banking environments.
+A results-driven **Data Professional** with **1 year of experience as a SQL Server Database Administrator (DBA)**. I have a solid foundation in managing databases, ensuring data integrity, and optimizing performance. Currently transitioning my expertise into **Data Engineering**, focusing on building scalable ETL pipelines and advanced Data Warehousing solutions.
 
 ---
 
-### 🛠️ Core Skills
+### 💼 Professional Experience (1 Year)
+- **SQL Server DBA:** Managed database health, security, and performance. Handled T-SQL scripting and database maintenance.
+- **Financial Reporting:** Developed complex financial reports and data models using **Advanced Excel**, providing actionable insights for business decisions.
 
-#### 💻 Programming & Querying
-- **Languages:** Python, SQL, Java
+---
 
-#### ⛓️ Data Engineering & Orchestration
-- **Tools:** SSIS, Talend, Apache Airflow, PySpark, dbt
-- **Expertise:** Batch data pipelines, Data quality validation & automation
+### 🛠️ Core Technical Skills:
+- **Databases & Administration:** SQL Server (DBA background), T-SQL, Database Design.
+- **ETL & Data Warehousing:** SSIS, DWH Concepts, ETL Design, Dimensional Modeling (Star/Snowflake Schema).
+- **Business Intelligence (BI):** Power BI, SSAS, SSRS.
+- **Data Analysis:** Advanced Excel (Financial Reporting), Data Validation.
 
-#### 🏗️ Data Modeling & Warehousing
-- **Design:** Star Schema, Dimensional Modeling
-- **Platforms:** SQL Server, Oracle, Snowflake
+---
 
-#### 📊 Analytics & BI
-- **Tools:** Power BI, SSAS, SSRS
+### 🚀 My Current Focus:
+- Transitioning from DBA to full-scale **Data Engineering**.
+- Mastering **Python** and **Apache Airflow** for automated orchestration.
+- Building a portfolio of end-to-end Data Engineering projects.
 
-#### 🚀 Dev & Engineering Practices
-- **DevOps:** Git, GitHub, Docker
-- **Methodologies:** Agile, Technical Documentation
+---
 
 ---
 
