@@ -26,7 +26,7 @@ A **Data Engineer** with a strong background in **Database Administration (1 yea
 #### 📊 Business Intelligence Infrastructure
 - **Stack:** **SSAS**, **SSRS**, and **Power BI** (Data Modeling & DAX).
 - **Reporting Automation:** Automating financial data flows using Python.
-
+<br><br>
 ---
 
 ### 📫 Let's Connect:
