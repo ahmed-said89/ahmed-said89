@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi I'm Ahmed Said 👋
+### Data Engineer ⚙️ | ETL & Data Infrastructure Specialist
 
-<!--
-**ahmed-said89/ahmed-said89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer with hands-on experience building reliable ETL pipelines and data warehouses using **SQL, SSIS, Talend, Apache Airflow, and PySpark**. Focused on data quality, dimensional modeling, and delivering analytics-ready datasets for enterprise and BI use cases, particularly in banking environments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Skills
+
+#### 💻 Programming & Querying
+- **Languages:** Python, SQL, Java
+
+#### ⛓️ Data Engineering & Orchestration
+- **Tools:** SSIS, Talend, Apache Airflow, PySpark, dbt
+- **Expertise:** Batch data pipelines, Data quality validation & automation
+
+#### 🏗️ Data Modeling & Warehousing
+- **Design:** Star Schema, Dimensional Modeling
+- **Platforms:** SQL Server, Oracle, Snowflake
+
+#### 📊 Analytics & BI
+- **Tools:** Power BI, SSAS, SSRS
+
+#### 🚀 Dev & Engineering Practices
+- **DevOps:** Git, GitHub, Docker
+- **Methodologies:** Agile, Technical Documentation
+
+---
+
+### 📈 GitHub Stats
+![Ahmed's Stats](https://github-readme-stats.vercel.app/api?username=ahmed-said89&show_icons=true&theme=tokyonight)
