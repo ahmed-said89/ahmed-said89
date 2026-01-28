@@ -1,32 +1,43 @@
 # Hi I'm Ahmed Said 👋
-### Data Engineer | Former SQL Server DBA | BI Specialist
+### Data Engineer | Former SQL Server DBA | ETL & Infrastructure Specialist
 
-A results-driven **Data Professional** with **1 year of experience as a SQL Server Database Administrator (DBA)**. I have a solid foundation in managing databases, ensuring data integrity, and optimizing performance. Currently transitioning my expertise into **Data Engineering**, focusing on building scalable ETL pipelines and advanced Data Warehousing solutions.
-
----
-
-### 💼 Professional Experience (1 Year)
-- **SQL Server DBA:** Managed database health, security, and performance. Handled T-SQL scripting and database maintenance.
-- **Financial Reporting:** Developed complex financial reports and data models using **Advanced Excel**, providing actionable insights for business decisions.
+A **Data Engineer** with a strong background in **Database Administration (1 year)**. I specialize in designing and maintaining the infrastructure that powers data-driven decisions. My focus is on building robust **ETL/ELT pipelines**, optimizing database performance, and architecting scalable **Data Warehouses**.
 
 ---
 
-### 🛠️ Core Technical Skills:
-- **Databases & Administration:** SQL Server (DBA background), T-SQL, Database Design.
-- **ETL & Data Warehousing:** SSIS, DWH Concepts, ETL Design, Dimensional Modeling (Star/Snowflake Schema).
-- **Business Intelligence (BI):** Power BI, SSAS, SSRS.
-- **Data Analysis:** Advanced Excel (Financial Reporting), Data Validation.
+### ⚙️ Engineering Core Skills:
+
+#### 🏎️ Data Integration & ETL
+- **Tools:** **SSIS**, **Python** (Automation scripts).
+- **Process:** Designing efficient ETL workflows, data ingestion from multiple sources, and data cleaning at scale.
+
+#### 🏗️ Data Architecture & Modeling
+- **Concepts:** **Data Warehousing (DWH)**, **Dimensional Modeling** (Star & Snowflake Schemas), Slowly Changing Dimensions (SCD).
+- **Design:** Mapping ER Diagrams to Physical Models optimized for performance.
+
+#### 💾 Database Engineering (Former DBA)
+- **Engine:** **SQL Server (Advanced)**.
+- **Skills:** T-SQL, Index Optimization, Performance Tuning, Database Security, and Maintenance.
+
+#### 📊 Business Intelligence Infrastructure
+- **Stack:** **SSAS** (Tabular/Multidimensional), **SSRS**, and **Power BI** (Data Modeling & DAX).
+- **Reporting Automation:** Automating financial data flows from SQL Server to Excel/Power BI using Python.
 
 ---
 
-### 🚀 My Current Focus:
-- Transitioning from DBA to full-scale **Data Engineering**.
-- Mastering **Python** and **Apache Airflow** for automated orchestration.
-- Building a portfolio of end-to-end Data Engineering projects.
+### 🚀 Technical Toolbox:
+- **Languages:** SQL (T-SQL), Python (Scripting & Automation).
+- **Tools:** SSMS, Visual Studio (SSDT), Excel (Advanced for Data Validation).
+- **Methodologies:** Agile, Data Quality Validation, ETL Documentation.
 
 ---
 
+### 🎯 Current Learning Path:
+- Scaling Data Pipelines with **Apache Airflow**.
+- Big Data processing with **PySpark**.
+- Cloud Data Engineering on **Azure**.
+
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 ![Ahmed's Stats](https://github-readme-stats.vercel.app/api?username=ahmed-said89&show_icons=true&theme=tokyonight)
