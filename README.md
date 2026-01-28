@@ -30,8 +30,6 @@ A **Data Engineer** with a strong background in **Database Administration (1 yea
 ---
 
 ### 📫 Let's Connect:
-### 📫 Let's Connect:
-
 <a href="https://www.linkedin.com/in/ahmed-said-bi" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
