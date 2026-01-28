@@ -26,7 +26,7 @@ A **Data Engineer** with a strong background in **Database Administration (1 yea
 #### 📊 Business Intelligence Infrastructure
 - **Stack:** **SSAS**, **SSRS**, and **Power BI** (Data Modeling & DAX).
 - **Reporting Automation:** Automating financial data flows using Python.
-<br><br>
+
 ---
 
 ### 📫 Let's Connect:
@@ -37,6 +37,7 @@ A **Data Engineer** with a strong background in **Database Administration (1 yea
 <a href="mailto:ahmedsaid98@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
+<br><br>
 ---
 
 ### 📈 GitHub Stats
