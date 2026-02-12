@@ -40,5 +40,3 @@ A **Data Engineer** with a strong background in **Database Administration (1 yea
 
 ---
 
-### 📈 GitHub Stats
-![Ahmed's Stats](https://github-readme-stats.vercel.app/api?username=ahmed-said89&show_icons=true&theme=tokyonight)
