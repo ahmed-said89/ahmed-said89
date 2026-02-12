@@ -38,5 +38,5 @@ A **Data Engineer** with a strong background in **Database Administration (1 yea
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
----
+
 
