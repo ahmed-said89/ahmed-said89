@@ -70,10 +70,6 @@ My technical background includes SQL Server, Power BI, Excel, Python, and ETL pr
 - Production Planning Analytics
 - SQL Performance Optimization
 
-📫 **LinkedIn:** https://www.linkedin.com/in/ahmed-said-bi/
-
-💻 **GitHub:** https://github.com/ahmed-said89
-
 ### 📫 Let's Connect:
 <a href="https://www.linkedin.com/in/ahmed-said-bi" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
