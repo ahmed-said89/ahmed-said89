@@ -1,32 +1,74 @@
-# Hi I'm Ahmed Said 👋
-### Data Engineer | Former SQL Server DBA | ETL & Infrastructure Specialist
+# Hi, I'm Ahmed Said 👋
 
-A **Data Engineer** with a strong background in **Database Administration (1 year)**. I specialize in designing and maintaining the infrastructure that powers data-driven decisions. My focus is on building robust **ETL/ELT pipelines**, optimizing database performance, and architecting scalable **Data Warehouses**.
+### Planning Analyst | Data Analyst | Aspiring Data Engineer
+
+I am a Planning Analyst with hands-on experience in production planning, business analytics, and database management. I specialize in analyzing operational data, building interactive dashboards, and transforming raw data into actionable business insights.
+
+My technical background includes SQL Server, Power BI, Excel, Python, and ETL processes. I am passionate about Data Engineering and continuously developing my skills in Data Warehousing, data modeling, and scalable data solutions.
 
 ---
 
-### ⚙️ Engineering Core Skills:
+## 📊 Data Analytics
 
-#### 🏎️ Data Integration & ETL
-- **Tools:** **Informatica PowerCenter**, **SSIS**, **Python** (Automation scripts).
-- **Process:** Designing efficient ETL workflows, data ingestion from multiple sources, and data cleaning at scale.
+- Microsoft Excel (Advanced)
+- Power BI (Power Query, DAX, Data Modeling)
+- SQL Data Analysis
+- KPI Reporting & Dashboard Development
+- Data Cleaning & Transformation
+- Business & Production Data Analysis
 
-#### 🏗️ Data Architecture & Modeling
-- **Concepts:** **Data Warehousing (DWH)**, **Dimensional Modeling** (Star & Snowflake Schemas), Slowly Changing Dimensions (SCD).
-- **Design:** Mapping ER Diagrams to Physical Models optimized for performance.
+---
 
-#### 💾 Database Engineering (Former DBA)
-- **Engine:** **SQL Server (Advanced)**.
-- **Skills:** T-SQL, Index Optimization, Performance Tuning, Database Security, and Maintenance.
+## 🏭 Planning Analytics
 
-#### 🛠️ Version Control & Engineering Practices
-- **Tools:** **Git**, **GitHub**.
-- **Methodologies:** Technical Documentation, ETL Design Patterns, Data Quality Validation.
+- Production Planning
+- Order Tracking & Monitoring
+- Inventory Analysis
+- Fabric Shrinkage & Loss Analysis
+- Operational Reporting
+- Production Performance Analysis
 
-#### 📊 Business Intelligence Infrastructure
-- **Stack:** **SSAS**, **SSRS**, and **Power BI** (Data Modeling & DAX).
-- **Reporting Automation:** Automating financial data flows using Python.
+---
 
+## ⚙️ Data Engineering
+
+- SQL Server (T-SQL)
+- SSIS (ETL)
+- Data Warehousing (DWH)
+- Dimensional Modeling (Star & Snowflake Schemas)
+- ETL Pipeline Development
+- Python for Data Processing & Automation
+
+---
+
+## 🗄️ Database Management
+
+- Database Design
+- Query Optimization
+- Performance Tuning
+- Database Administration
+
+---
+
+## 🛠️ Tools & Technologies
+
+- SQL Server
+- Power BI
+- Microsoft Excel
+- Python
+- SSIS
+- SSRS
+- Git & GitHub
+
+---
+
+## 📌 Current Focus
+
+- Data Analytics
+- Business Intelligence
+- Data Engineering
+- Production Planning Analytics
+- SQL Performance Optimization
 ---
 
 ### 📫 Let's Connect:
